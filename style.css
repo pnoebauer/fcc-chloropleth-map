@@ -68,13 +68,13 @@ text {
 	visibility: hidden;
 } */
 
-.cell {
+.county {
 	/* stroke: #000;
 	opacity: 0.8; */
 	cursor: pointer;
 }
 
-.cell:hover {
+.county:hover {
 	/* filter: brightness(1.75); */
 	stroke: #000;
 }
